@@ -1,6 +1,7 @@
 # DH-MEA  
 
 This is source code for the paper *"Dual-Branch Heterophily-Aware Graph Neural Network with Seed Iterative Optimization for Multimodal Entity Alignment"*.  
+
 ![The Proposed DH-MEA Framework](image/framework.png)
 
 # Dependency
