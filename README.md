@@ -22,13 +22,16 @@ This is source code for the paper *"Dual-Branch Heterophily-Aware Graph Neural N
 
 We utilize three multimodal knowledge graph datasets:
 
-MMKG
+**MMKG**
+
 Contains subsets: FB15K-DB15K, FB15K-YAGO15K
 
-Multi-OpenEA
+**Multi-OpenEA**
+
 Contains subsets: EN-FR-V1, EN-DE-V1, D-W-V1, D-W-V2
 
-DBP15K
+**DBP15K**
+
 Contains subsets: ZH-EN, JA-EN, FR-EN
 
 Basic information of these datasets is introduced above. For additional visual information related to them, please refer to the content placed here.
