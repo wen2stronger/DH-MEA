@@ -28,4 +28,6 @@ We utilize three multimodal knowledge graph datasets:
 
 - **DBP15K:** ZH-EN, JA-EN, FR-EN
 
-Basic information of these datasets is introduced above. For additional visual information related to them, please refer to the content placed here.
+Basic information of these datasets is introduced above. For additional visual information related to them, please refer to the content placed [here]([docs/visual-info.md](https://translate.google.hk/?sl=auto&tl=en&text=%E6%AD%A4%E5%A4%96%EF%BC%8C%E7%94%A8%E4%BA%8E%E8%8E%B7%E5%8F%96%E5%B1%9E%E6%80%A7%E5%B5%8C%E5%85%A5%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%82&op=translate)).
+
+Additionally, the model used to obtain attribute embeddings is [here](docs/visual-info.md).
